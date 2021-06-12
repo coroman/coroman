@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coroman
+- 👋 Hi, I’m Yama Roni
 - 👀 I’m interested in Javascript
 - I’m currently learning Express.js
 - Already working with Framework7
