@@ -1,5 +1,4 @@
 - Hi, I’m Yama Roni
-- I’m interested in Javascript Programming Language
-- I’m currently learning Express.js
+- I’m interested on Hybrid Devtools
+- I’m currently learning Flutter
 - Already working with Framework7
-- Willing to learn React-Native on the future
