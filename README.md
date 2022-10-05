@@ -1,4 +1,5 @@
 - Hi, I’m Yama Roni
-- Interested on Hybrid Devtools
-- Currently learning Flutter
-- Already working with Framework7
+- A programmer that interested on 
+- Hybrid Devtools
+- Had experience with Cordova x Framework7
+- And Currently working with Flutter
